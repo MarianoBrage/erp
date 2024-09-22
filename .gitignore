@@ -1,0 +1,10 @@
+*.DS_STORE
+*.vscode
+*.xls
+*.xlsx
+*.csv
+*.json
+*.txt
+*.zip
+*.rar
+*.pdf
